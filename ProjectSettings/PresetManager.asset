@@ -4,4 +4,21 @@
 PresetManager:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_DefaultPresets: {}
+  m_DefaultPresets:
+  - first:
+      m_NativeTypeID: 1006
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: 72a65c40a0e81de4caec35cf53c5fd88, type: 2}
+      m_Filter: 
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: ac18bf491c21e254083915bebfc937a3, type: 2}
+      m_Filter: glob:"Icons/**"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 29fefb213328bf24d8afa86219cba403, type: 2}
+      m_Filter: glob:"Actors/**"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 63ad18be22a30994090da0b6a04c6a48, type: 2}
+      m_Filter: glob:"Tilesets/**"
+      m_Disabled: 0
