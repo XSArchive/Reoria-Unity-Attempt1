@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 355fb8aedd1f4aca846a8bbf96558a5d
+timeCreated: 1656941791
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Drawers/DropdownDrawer.cs
+  uploadId: 603265

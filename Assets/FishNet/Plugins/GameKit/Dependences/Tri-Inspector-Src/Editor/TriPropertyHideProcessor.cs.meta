@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: de11bb184a7d4c7f9c6a4f2a75756278
+timeCreated: 1641384283
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor/TriPropertyHideProcessor.cs
+  uploadId: 603265

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e6127def8bae4f8e835f3f8f6af4c117
+timeCreated: 1659516166
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Samples/Misc/Misc_HideReferencePickerSample.cs
+  uploadId: 603265

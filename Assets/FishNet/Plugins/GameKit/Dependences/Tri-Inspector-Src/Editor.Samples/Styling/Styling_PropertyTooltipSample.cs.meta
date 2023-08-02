@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 866d0af24dd1465798f6fc588a18f0ac
+timeCreated: 1656856888
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Samples/Styling/Styling_PropertyTooltipSample.cs
+  uploadId: 603265

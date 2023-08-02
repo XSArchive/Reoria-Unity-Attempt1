@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d703a4146e75487aa57e22f375b04c32
+timeCreated: 1638942558
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Drawers/PropertySpaceDrawer.cs
+  uploadId: 603265

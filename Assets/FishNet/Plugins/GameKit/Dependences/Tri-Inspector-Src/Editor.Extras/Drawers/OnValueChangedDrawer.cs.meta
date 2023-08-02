@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 16bb69c0bfa84c69b1cd04863fdd1570
+timeCreated: 1654159943
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Drawers/OnValueChangedDrawer.cs
+  uploadId: 603265

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 468b264c3e164c0681760c3d98451466
+timeCreated: 1638857169
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor/TriPropertyTreeForSerializedObject.cs
+  uploadId: 603265

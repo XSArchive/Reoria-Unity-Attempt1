@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6686c4df436342e8a75b5ace13a2c590
+timeCreated: 1641385927
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Runtime/Attributes/HideInPlayModeAttribute.cs
+  uploadId: 603265

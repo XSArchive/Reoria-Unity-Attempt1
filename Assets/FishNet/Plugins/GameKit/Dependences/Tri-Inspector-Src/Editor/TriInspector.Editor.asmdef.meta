@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e851236b9ac2b9b4eaaa99506366edea
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor/TriInspector.Editor.asmdef
+  uploadId: 603265

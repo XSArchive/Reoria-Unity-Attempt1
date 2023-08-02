@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 510766d9f1764aae8c21d517ebb2c392
+timeCreated: 1652079793
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Validators/TypeMismatchValidator.cs
+  uploadId: 603265

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 95268b41deb942b8882969bf23911eaf
+timeCreated: 1641571162
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Drawers/ObjectReferenceDrawer.cs
+  uploadId: 603265

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d54c241ae2494cb690bf538785a746e6
+timeCreated: 1642586566
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Runtime/Attributes/DisableInEditModeAttribute.cs
+  uploadId: 603265

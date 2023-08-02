@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 53bdb27623d2437a9af368e1342d9176
+timeCreated: 1638947263
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.10.4
+  assetPath: Assets/FishNet/Plugins/GameKit/Dependences/Tri-Inspector-Src/Editor.Extras/Drawers/IndentDrawer.cs
+  uploadId: 603265
