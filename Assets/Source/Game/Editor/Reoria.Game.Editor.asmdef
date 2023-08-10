@@ -1,0 +1,21 @@
+{
+    "name": "Reoria.Game.Editor",
+    "rootNamespace": "Reoria.Game.Editor",
+    "references": [
+        "Reoria",
+        "Reoria.Game",
+        "FishNet.Runtime",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
