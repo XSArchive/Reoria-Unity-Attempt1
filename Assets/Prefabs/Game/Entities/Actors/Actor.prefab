@@ -60,6 +60,22 @@ PrefabInstance:
       propertyPath: <AssetPathHash>k__BackingField
       value: 17736875231344398105
       objectReference: {fileID: 0}
+    - target: {fileID: 2882567203471480241, guid: 46087c2b9814d164aba2c1909a9aebee, type: 3}
+      propertyPath: SerializedTransformProperties.Rotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2882567203471480241, guid: 46087c2b9814d164aba2c1909a9aebee, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2882567203471480241, guid: 46087c2b9814d164aba2c1909a9aebee, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2882567203471480241, guid: 46087c2b9814d164aba2c1909a9aebee, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5778499453277817590, guid: 46087c2b9814d164aba2c1909a9aebee, type: 3}
       propertyPath: m_Name
       value: Actor

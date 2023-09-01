@@ -72,6 +72,22 @@ PrefabInstance:
       propertyPath: <AssetPathHash>k__BackingField
       value: 12104359470751970211
       objectReference: {fileID: 0}
+    - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
+      propertyPath: SerializedTransformProperties.Rotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
+      propertyPath: SerializedTransformProperties.LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
