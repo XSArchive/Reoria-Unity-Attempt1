@@ -70,7 +70,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
       propertyPath: <AssetPathHash>k__BackingField
-      value: 12104359470751970211
+      value: 3284789874383465703
       objectReference: {fileID: 0}
     - target: {fileID: 7625458673147440646, guid: d99039f3926c9164585fed663d3af370, type: 3}
       propertyPath: SerializedTransformProperties.Rotation.w
